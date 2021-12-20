@@ -1,0 +1,173 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 867px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  margin: 61px 0 0 478px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 476px;
+  min-height: 488px;
+  margin: 35px 0 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 40px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  line-height: 2;
+  font-weight: 400;
+  color: rgb(17, 17, 17) !important;
+  margin: 0;
+}
+
+.u-section-1 .u-list-icon-1 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-list-icon-1 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-list-icon-1 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-list-icon-1 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-list-icon-1 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-list-icon-1 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-list-icon-1 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 1.125rem;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 35px auto 0 0;
+  padding: 19px 69px 20px 68px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 611px;
+  width: 611px;
+  background-image: url("../images/reduced_screen_time_club_icon.png");
+  background-position: 50% 50%;
+  box-shadow: 5px 5px 20px 6px rgba(0,0,0,0.4);
+  margin: -488px auto 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 797px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 278px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 393px;
+    min-height: 416px;
+    margin-top: 156px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 540px;
+    width: 540px;
+    margin-top: -512px;
+    margin-bottom: 57px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1132px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-left: 67px;
+    margin-right: 67px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 358px;
+    margin-top: 415px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 27px 30px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 444px;
+    width: 444px;
+    margin-top: -754px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1093px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 482px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -821px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1015px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    margin-top: 378px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 340px;
+    width: 340px;
+    margin-top: -717px;
+  }
+}
