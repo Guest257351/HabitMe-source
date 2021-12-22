@@ -6,7 +6,7 @@ export FLASK_APP=flask_app
 
 # flask run -h 0.0.0.0 -p 80 --cert=adhoc
 
-waitress-serve --call 'flask_app:create_app' --port=80 --url-scheme=https
+waitress-serve --port='80' --url-scheme='https' --call 'flask_app:create_app'
 
 wait -n
 
